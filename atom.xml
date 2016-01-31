@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[信息检索]]></title>
+  <link href="http://qdtsg.github.io/atom.xml" rel="self"/>
+  <link href="http://qdtsg.github.io/"/>
+  <updated>2016-01-31T14:20:18+08:00</updated>
+  <id>http://qdtsg.github.io/</id>
+  <author>
+    <name><![CDATA[齐齐哈尔大学图书馆]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[齐齐哈尔大学图书馆]]></title>
+    <link href="http://qdtsg.github.io/blog/2016/01/29/qqhru/"/>
+    <updated>2016-01-29T23:54:44+08:00</updated>
+    <id>http://qdtsg.github.io/blog/2016/01/29/qqhru</id>
+    <content type="html"><![CDATA[<h1>再试一次！</h1>
+
+<h2>改改能行不？</h2>
+
+<ul>
+<li>Html5</li>
+<li>CSS3</li>
+<li>JS</li>
+<li>python</li>
+</ul>
+
+
+<p><strong>终于好使了，可以睡觉去了，呵呵~</strong></p>
+
+<blockquote><p>gem install wdm</p>
+
+<p>gem &lsquo;wdm&rsquo;, &lsquo;~> 0.1.1&rsquo;</p></blockquote>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>public class qqhru{
+</span><span class='line'>  public static void main(string[] args){
+</span><span class='line'>      System.out.println("hello qqhru");
+</span><span class='line'>  }
+</span><span class='line'>}</span></code></pre></td></tr></table></div></figure>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
