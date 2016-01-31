@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[信息检索]]></title>
-  <link href="http://qdtsg.github.io/atom.xml" rel="self"/>
-  <link href="http://qdtsg.github.io/"/>
-  <updated>2016-01-31T14:20:18+08:00</updated>
-  <id>http://qdtsg.github.io/</id>
+  <link href="http://ltj.space/atom.xml" rel="self"/>
+  <link href="http://ltj.space/"/>
+  <updated>2016-01-31T20:42:08+08:00</updated>
+  <id>http://ltj.space/</id>
   <author>
     <name><![CDATA[齐齐哈尔大学图书馆]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[齐齐哈尔大学图书馆]]></title>
-    <link href="http://qdtsg.github.io/blog/2016/01/29/qqhru/"/>
+    <link href="http://ltj.space/blog/2016/01/29/qqhru/"/>
     <updated>2016-01-29T23:54:44+08:00</updated>
-    <id>http://qdtsg.github.io/blog/2016/01/29/qqhru</id>
+    <id>http://ltj.space/blog/2016/01/29/qqhru</id>
     <content type="html"><![CDATA[<h1>再试一次！</h1>
 
 <h2>改改能行不？</h2>
@@ -49,6 +49,17 @@
 
 
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[HELLO]]></title>
+    <link href="http://ltj.space/blog/2016/01/29/hello/"/>
+    <updated>2016-01-29T23:54:44+08:00</updated>
+    <id>http://ltj.space/blog/2016/01/29/hello</id>
+    <content type="html"><![CDATA[<h1>子页面测试</h1>
+
+<h2>看下效果</h2>
 ]]></content>
   </entry>
   

@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://qdtsg.github.io/blog/2016/01/29/qqhru/</loc>
+<loc>http://ltj.space/blog/2016/01/29/qqhru/</loc>
 <lastmod>2016-01-29T23:54:44+08:00</lastmod>
 </url>
 <url>
-<loc>http://qdtsg.github.io/404.html</loc>
+<loc>http://ltj.space/blog/2016/01/29/hello/</loc>
+<lastmod>2016-01-29T23:54:44+08:00</lastmod>
 </url>
 <url>
-<loc>http://qdtsg.github.io/</loc>
+<loc>http://ltj.space/404.html</loc>
 </url>
 <url>
-<loc>http://qdtsg.github.io/blog/archives/</loc>
+<loc>http://ltj.space/</loc>
 </url>
 <url>
-<loc>http://qdtsg.github.io/aboutme/</loc>
+<loc>http://ltj.space/blog/archives/</loc>
 </url>
 <url>
-<loc>http://qdtsg.github.io/qqhru/</loc>
+<loc>http://ltj.space/aboutme/</loc>
+</url>
+<url>
+<loc>http://ltj.space/qqhru/</loc>
 </url>
 </urlset>
